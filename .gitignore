@@ -66,3 +66,24 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Vim 임시 파일
+*.swp
+*.swo
+
+# 태크 및 압축 파일
+tags
+*.tar
+*.tar.gz
+*.zip
+
+# 컴파일된 실행 파일 및 오브젝트 파일
+*.o
+*.out
+src1/exe
+src3/src3
+
+
+
+
+
